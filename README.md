@@ -79,11 +79,11 @@ In this project, we designed a home security system prototype which implemented 
 
 ### Circuit Photos:
 
-![1](./images/1.jpg)
-![2](./images/2.jpg)
-![3](./images/3.jpg)
-![4](./images/4.jpg)
-![5](./images/5.jpg)
+![1](./images/1.JPG)
+![2](./images/2.JPG)
+![3](./images/3.JPG)
+![4](./images/4.JPG)
+![5](./images/5.JPG)
 
 The videos can be found in the images folder of this repository.
 ## Credits
